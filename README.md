@@ -33,7 +33,7 @@ PUSH YOUR CHANGE:
 $ git add .
 $ git commit -m "write down the changes you made"
 $ git push origin new-branch
-// Create a pull request</b>
+// Create a pull request
 ```
 
 
